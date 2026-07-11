@@ -1,0 +1,25 @@
+Date ,Node,Inward/Outward,Time_Slot,Time,Vehicle_Count,Starting_Point,End_Point,Distance_from_start_to_end (km)
+09/06/2026,A,Inward,Morning,07:03,12,SGHSC_CAMPUS,Mashoor,0.1719
+09/06/2026,A,Inward,Morning,07:05,12,SGHSC_CAMPUS,ExpertCoaching,0.1476
+09/06/2026,A,Inward,Morning,07:07,12,SGHSC_CAMPUS,Mashoor,0.1719
+09/06/2026,A,Inward,Morning,07:11,12,SGHSC_CAMPUS,TastyTreat,0.1323
+09/06/2026,A,Inward,Morning,07:15,12,SGHSC_CAMPUS,BurgerBarista,0.1088
+20/04/2026,A,Inward,Mid-morning,11:03,11,SGHSC_CAMPUS,BestBuy,0.2284
+20/04/2026,A,Inward,Mid-morning,11:08,11,SGHSC_CAMPUS,GodhuliPushpaloy,0.1963
+20/04/2026,A,Inward,Mid-morning,11:14,,SGHSC_CAMPUS,CapitalBakery,0.176
+20/04/2026,A,Inward,Evening,16:31,N/A,SGHSC_CAMPUS,Mashoor,0.1719
+20/04/2026,A,Inward,Evening,16:35,N/A,SGHSC_CAMPUS,ExpertCoaching,0.1476
+20/04/2026,A,Inward,Evening,16:43,N/A,SGHSC_CAMPUS,TastyTreat,0.1323
+09/06/2026,B,Inward,Morning,07:03,N/A,SGHSC_CAMPUS,NoConstantTraffic,0
+08/06/2026,B,Inward,Mid-morning,11:00,20,SGHSC_CAMPUS,LawyerChamber,0.1759712
+08/06/2026,B,Inward,Mid-morning,11:15,32,SGHSC_CAMPUS,AllahrDanKababGhar,0.4022344
+23/04/2026,B,Inward,Afternoon,16:30,9,SGHSC_CAMPUS,NoConstantTraffic,0
+23/04/2026,B,Inward,Afternoon,16:36,9,SGHSC_CAMPUS,SomaPrintingPress,0.283083
+23/04/2026,B,Inward,Afternoon,16:43,9,SGHSC_CAMPUS,NuraniZameMosque,0.2115058
+N/A,C,N/A,Morning,N/A,N/A,N/A,N/A,N/A
+08/06/2026,C,Outward,Mid-morning,11:08,10,SGHSC_CAMPUS,MuslimGovt.HighSchool,0.1354
+08/06/2026,C,Outward,Mid-morning,11:13,10,SGHSC_CAMPUS,Sister'sRNDM,0.0909
+08/06/2026,C,Outward,Mid-morning,11:18,10,SGHSC_CAMPUS,ShahiMosque,0.0595
+22/04/2026,C,Inward,Afternoon,16:30,13,SGHSC_CAMPUS,Church,0.0037
+22/04/2026,C,Inward,Afternoon,16:35,13,SGHSC_CAMPUS,ShahiMosque,0.0595
+22/04/2026,C,Inward,Afternoon,16:40,13,SGHSC_CAMPUS,Sister'sRNDM,0.0909

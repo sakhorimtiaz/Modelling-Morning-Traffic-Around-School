@@ -1,0 +1,75 @@
+Date,Node,Time_slot,Time_range,Landmark_to_Landmark,Vehicle_Type,Distance_Covered (km),Time(hr),Speed (kmph)
+09/06/2026,A,Morning,7:17,Node-A to School Gate,AutoRickshaw,0.0799,0.0065,12.29230769
+09/06/2026,A,Morning,7:19,Node-A to School Gate,Rickshaw,0.0799,0.0072,11.09722222
+09/06/2026,A,Morning,7:20,Node-A to School Gate,MotorBike,0.0799,0.004233,18.87550201
+09/06/2026,A,Morning,7:23,Node-A to school Gate 2nd,Bicycle,0.0586,0.00201,29.15422886
+09/06/2026,A,Morning,7:25,Node-A to School Gate,AutoRickshaw,0.0799,0.007214,11.07568617
+09/06/2026,A,Morning,7:27,Node-A to School Gate,Bicycle,0.0799,0.0038,21.02631579
+09/06/2026,A,Morning,7:28,Node-A to School Gate,MotorBike,0.0799,0.004072,19.62180747
+09/06/2026,A,Morning,7:28,Node-A to School Gate,Rickshaw,0.0799,0.0067,11.92537313
+20/4/2026,A,MidMorning,11:03-11:14,Swapno_to_Bestbuy,Rickshaw,0.0723,0.008986,8.045849099
+20/4/2026,A,MidMorning,11:03_to_11:14,Swapno_to_Bestbuy,Rickshaw,0.0723,0.0063,11.47619048
+20/4/2026,A,MidMorning,11:03_to_11:14,Swapno_to_Bestbuy,AutoRickshaw,0.0723,0.00937,7.716115261
+20/4/2026,A,MidMorning,11:03_to_11:14,Swapno_to_Bestbuy,AutoRickshaw,0.0723,0.00691,10.46309696
+20/4/2026,A,MidMorning,11:03_to_11:14,Swapno_to_Bestbuy,PrivateCar,0.0723,0.00556,13.00359712
+20/4/2026,A,MidMorning,11:03_to_11:14,Swapno_to_Bestbuy,PrivateCar,0.0723,0.00573,12.61780105
+20/4/2026,A,MidMorning,11:03_to_11:14,Swapno_to_Bestbuy,Leguna,0.0723,0.00217,33.31797235
+20/4/2026,A,MidMorning,11:03_to_11:14,Swapno_to_Bestbuy,Pickup,0.0723,0.005786,12.49567923
+20/4/2026,A,MidMorning,11:03_to_11:14,Swapno_to_Bestbuy,MotorBike,0.0723,0.006147,11.76183504
+20/4/2026,A,MidMorning,11:03_to_11:14,Swapno_to_Bestbuy,MotorBike,0.0723,0.006214,11.6350177
+20/4/2026,A,MidMorning,11:03_to_11:14,Swapno_to_Bestbuy,MotorBike,0.0723,0.004714,15.33729317
+20/04/2026,A,Evening,16:31,Sohrawardi to Mashur Sweets,Rickshaw,0.0236,0.00498,4.738955823
+20/04/2026,A,Evening,16:31,Sohrawardi to Mashur Sweets,AutoRickshaw,0.0236,0.00349,6.76217765
+20/04/2026,A,Evening,16:31,Sohrawardi to Mashur Sweets,AutoRickshaw,0.0236,0.0047,5.021276596
+20/04/2026,A,Evening,16:31,Sohrawardi to Mashur Sweets,PrivateCar,0.0236,0.0038,6.210526316
+20/04/2026,A,Evening,16:31,Sohrawardi to Mashur Sweets,MotorBike,0.0236,0.002428,9.719934102
+20/04/2026,A,Evening,16:31,Sohrawardi to Mashur Sweets,MotorBike,0.0236,0.002894,8.154803041
+20/04/2026,A,Evening,16:43,Sohrawardi to Tasty Treat,Rickshaw,0.0236,0.00764,3.089005236
+20/04/2026,A,Evening,16:43,Sohrawardi to Tasty Treat,Rickshaw,0.0236,0.0065967,3.577546349
+N/A,B,Morning,N/A,N/A,N/A,N/A,N/A,N/A
+08/06/2026,B,MidMorning,11:01,Matrinibash to Kalyani Store,Rickshaw,0.0076,0.00083,9.156626506
+08/06/2026,B,MidMorning,11:02, Kalyani Store to Grocery Store,MotorBike,0.0114,0.00222,5.135135135
+08/06/2026,B,MidMorning,11:05,Shapla Ladies Tailors to Grocery Store,AutoRickshaw,0.00906,0.002222,4.077407741
+08/06/2026,B,MidMorning,11:06,Grocery Store to 6/1 house,PrivateCar,0.0378,0.0061111,6.185465792
+08/06/2026,B,MidMorning,11:08,Lawyer Chamber to Sunview Palace,Rickshaw,0.01656000,0.002778,5.96112311
+08/06/2026,B,MidMorning,11:11,Kazi Office Lampost to Rogmukti Hall,Rickshaw,0.04489,0.002778,16.15910727
+08/06/2026,B,MidMorning,11:14,Allahr Dan Kabab Ghar to Rice agency,Scooter,0.00553,0.0011111,4.97704977
+23/04/2026,B,Evening,16:30_to_16:43,Transformer to Shoma_Printing_Press,Rickshaw,0.034,0.002853,11.91728006
+23/04/2026,B,Evening,16:30_to_16:43,Transformer to Shoma_Printing_Press,Rickshaw,0.034,0.0029639,11.47137218
+23/04/2026,B,Evening,16:30_to_16:43,Transformer to Shoma_Printing_Press,Rickshaw,0.034,0.00274167,12.40120073
+23/04/2026,B,Evening,16:30_to_16:43,Transformer to Shoma_Printing_Press,AutoRickshaw,0.034,0.00311389,10.91881858
+23/04/2026,B,Evening,16:30_to_16:43,Transformer to Shoma_Printing_Press,AutoRickshaw,0.034,0.00357,9.523809524
+23/04/2026,B,Evening,16:30_to_16:43,Transformer to Shoma_Printing_Press,PrivateCar,0.034,0.004483,7.584207004
+23/04/2026,B,Evening,16:30_to_16:43,Transformer to Shoma_Printing_Press,PrivateCar,0.034,0.003717,9.14716169
+23/04/2026,B,Evening,16:30_to_16:43,Transformer to Shoma_Printing_Press,PrivateCar,0.034,0.003219444444,10.5608283
+23/04/2026,B,Evening,16:30_to_16:43,Transformer to Shoma_Printing_Press,MotorBike,0.034,0.002727777778,12.46435845
+21/4/2026,C,Morning,7:15_to_7:38,PoliceBox_to_MohillaCollege1stGate,Rickshaw,0.0959,0.0063,15.22222222
+21/4/2026,C,Morning,7:15_to_7:38,PoliceBox_to_MohillaCollege2ndGate,Rickshaw,0.0864,0.005375,16.0744186
+21/4/2026,C,Morning,7:15_to_7:38,PoliceBox_to_MohillaCollege1stGate,AutoRickshaw,0.0959,0.005102777778,18.79368536
+21/4/2026,C,Morning,7:15_to_7:38,PoliceBox_to_MohillaCollege1stGate,AutoRickshaw,0.0959,0.005088888889,18.84497817
+21/4/2026,C,Morning,7:15_to_7:38,PoliceBox_to_MohillaCollege2ndGate,PrivateCar,0.0864,0.003508333333,24.62707838
+21/4/2026,C,Morning,7:15_to_7:38,PoliceBox_to_2NDPASS,MotorBike,0.0645,0.003716666667,17.35426009
+21/4/2026,C,Morning,7:15_to_7:38,PoliceBox_to_MohillaCollege1stGate,MotorBike,0.0959,0.004369444444,21.94787031
+08/06/2026,C,MidMorning,11:08_to_11:18,Police_Box_to_St._Francis_School,AutoRickshaw,0.0959,0.02444444444,3.923181818
+08/06/2026,C,MidMorning,11:08_to_11:18,Police_Box_to_St._Francis_School,AutoRickshaw,0.0959,0.01221666667,7.849931787
+08/06/2026,C,MidMorning,11:08_to_11:18,Police_Box_to_St._Francis_School,PrivateCar,0.0959,0.02638888889,3.634105263
+08/06/2026,C,MidMorning,11:08_to_11:18,Police_Box_to_St._Francis_School,PrivateCar,0.0959,0.02166666667,4.426153846
+08/06/2026,C,MidMorning,11:08_to_11:18,Police_Box_to_St._Francis_School,Leguna,0.0959,0.02833333333,3.384705882
+08/06/2026,C,MidMorning,11:08_to_11:18,Police_Box_to_St._Francis_School,Leguna,0.0959,0.01221666667,7.849931787
+08/06/2026,C,MidMorning,11:08_to_11:18,Police_Box_to_St._Francis_School,Pickup,0.0959,0.01358333333,7.060122699
+08/06/2026,C,MidMorning,11:08_to_11:18,Police_Box_to_St._Francis_School,Pickup,0.0959,0.008461111111,11.3342088
+08/06/2026,C,MidMorning,11:08_to_11:18,Police_Box_to_St._Francis_School,MotorBike,0.0959,0.007613888889,12.59540314
+08/06/2026,C,MidMorning,11:08_to_11:18,Police_Box_to_St._Francis_School,MotorBike,0.0959,0.006638888889,14.44518828
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,ManualRickshaw,0.0864,0.006891666667,12.53688029
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,ManualRickshaw,0.0864,0.006030555556,14.32703823
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,AutoRickshaw,0.0864,0.005261111111,16.42238648
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,AutoRickshaw,0.0864,0.005072222222,17.033954
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,AutoRickshaw,0.0864,0.005044444444,17.1277533
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,PrivateCar,0.0864,0.005825,14.83261803
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,PrivateCar,0.0864,0.005425,15.92626728
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,PrivateCar,0.0864,0.007136111111,12.1074348
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,MotorBike,0.0864,0.003838888889,22.5065123
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,MotorBike,0.0864,0.005775,14.96103896
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,Pickup,0.0864,0.006758333333,12.78421702
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,Pickup,0.0864,0.01016944444,8.496039334
+22/04/2026,C,Afternoon,16:30_to_16:40,Police_to_Mosque,Pickup,0.0864,0.005072222222,17.033954
