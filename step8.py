@@ -1,5 +1,5 @@
-# now we will calculate the traffic flow density, k
-
+# now we will calculate the traffic flow density (k)
+# by dividing PCU/hr by Average_Velocity.
 import pandas as pd
 
 # 1. Load the finalized macroscopic files
