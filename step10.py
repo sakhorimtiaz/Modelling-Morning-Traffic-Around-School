@@ -1,6 +1,6 @@
 # As we can see that the Average velocity of Node B Morning is missing in the macroscopic_velocity file,
-#the ouput for density (k) is missing. We are condering the max velociyu in the node as Free flow,
-# which is the equal to Node B Evening value.
+#the ouput for density (k) is missing. 
+#We are condering the average velocity of evening in the node B as Free flow
 # Lets put the value and create a new file
 
 import pandas as pd
