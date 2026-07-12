@@ -1,0 +1,11 @@
+Node & Time Slot,Real Density (k),Physical Meters of Cars,Actual Road Space Occupied,What It Means Logically
+A (Morning),18.02 PCU/km,83 meters,8.30%,Wide Open: Total breathing room. Traffic flows effortlessly.
+B (Evening),26.93 PCU/km,124 meters,12.40%,Light Traffic: Plenty of room for lane changing and overtaking.
+C (Evening),27.33 PCU/km,126 meters,12.60%,"Fluid Movement: High speeds, vehicles easily bypass each other."
+Textbook Failure Point,65.00 PCU/km,299 meters,29.9% (~30%),The Textbook Threshold: The theoretical limit where standard cars lock up lanes.
+C (Morning),31.20 PCU/km,144 meters,14.40%,"Highly Efficient Peak: Low space occupancy, yet moving high volumes."
+A (Mid-Morning),39.59 PCU/km,182 meters,18.20%,"Comfortable Congestion: Lanes are filling, but traffic moves smoothly."
+B (Mid-Morning),47.93 PCU/km,220 meters,22.00%,"Local Friction Bottleneck: Not fully packed, yet speeds have collapsed."
+B (Morning),51.76 PCU/km,238 meters,23.80%,"Approaching Limit: High capacity utilization, approaching the textbook line."
+A (Evening),94.36 PCU/km,434 meters,43.40%,Highly Saturated: Exceeds textbook limits by 13%. Very tight spacing.
+C (Mid-Morning),119.13 PCU/km,548 meters,54.80%,Extreme Packing: Over half the pavement length is occupied by metal.
