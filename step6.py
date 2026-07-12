@@ -1,4 +1,6 @@
-# in the velocity cleaned file we have vehicle speeds. We want the average
+# In the frequency_pcu_combined file we have two or more values of same vehicles.
+# We will calculate the average.
+
 
 
 import pandas as pd
