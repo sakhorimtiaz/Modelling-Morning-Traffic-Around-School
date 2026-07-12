@@ -1,4 +1,4 @@
-# now we will solve the equation
+# now we will solve the equation found in the scatter chart.
 # then create a new file
 
 import os
