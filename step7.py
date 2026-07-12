@@ -1,4 +1,11 @@
-# now we will calculate the weighted velocity
+"""
+We we will calculate the weighted velocity.
+We will select a Node > TimeSlot > Vehicle > Speed from the speed_averaged_organized file.
+Then multiply the speed with the Total_PCU from the frequency_pcu_combined file.
+Repeat the process for other vehicles for speed_averaged_organized file.
+Loop until all the vehicles for a particular Node and TimeSlot is done.
+Then sum the values and at last divide by to total PCUs in a particular node and time.
+"""
 
 import pandas as pd
 
