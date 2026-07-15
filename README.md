@@ -1,9 +1,8 @@
-# Modelling Morning Traffic Around Schools (Luxmibazar, Dhaka)
+# School Traffic Study (Luxmibazar, Dhaka)
 
 This is a joint research project by **St. Gregory’s High School and College (Dhaka, Bangladesh)** and **Bluebells School International (New Delhi, India)**. 
 
-We collected traffic data near schools during busy pickup and drop-off times (7:00 AM, 11:00 AM, and 4:30 PM). 
-We built this Python tool to clean the data, calculate traffic speeds, and map out where the biggest traffic jams happen in Old Dhaka.
+We collected traffic data near schools during busy pickup and drop-off times (7:00 AM, 11:00 AM, and 4:30 PM). We built this Python tool to clean the data, calculate traffic speeds, and map out where the biggest traffic jams happen in Old Dhaka.
 
 ---
 
@@ -35,29 +34,3 @@ The Python scripts run in order from `step1.py` to `step15.py`:
 │   ├── step14.py                 # Grades the traffic from A to F
 │   └── step15.py                 # Calculates how much road space is occupied
 └── README.md
-
-## 🧮 Simple Traffic Formula
-
-We use a standard formula to understand traffic flow:
-
-**Flow = Density * Speed**
-
-* **Flow:** How many vehicles pass by per hour.
-* **Density:** How many vehicles are packed into 1 kilometer of road.
-* **Speed:** How fast the vehicles are moving.
-
----
-
-## 👥 Our Team
-
-* **Lead Researcher & Programmer:** K. M. Imtiaz Hossain *(Mathematics Teacher, St. Gregory’s)*
-* **Project Partner:** Miss K *(St. Gregory’s)*
-* **School Partner:** Bluebells School International *(New Delhi)*
-* **Data Collection Team:** 12 Students & 8 Teachers from St. Gregory's
-
----
-
-## 🔒 Rules and Privacy
-
-* **Ownership:** All data and Python scripts belong to St. Gregory’s High School and College and our research team.
-* **Privacy:** Do not share, copy, or use this data for other projects without asking us first.
