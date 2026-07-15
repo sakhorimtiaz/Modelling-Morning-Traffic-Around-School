@@ -109,6 +109,8 @@ We began our analysis with four raw CSV files:
 * **Goal:** Plot flow-density-speed relationships to observe real-world trends.
 * **Code File:** `step12.py`
 * **Output Visual:** Scatter chart showing how traffic behaves at different congestion levels.
+* **Reference Files:** * Check the `Scatter_Chart_diagram.xlsx` file to view the scatter plot in spreadsheet/Google Doc format.
+  * Check the `Scatter_chart_concepts.doc` file to understand how we drew this chart.
 
 ---
 
@@ -123,6 +125,7 @@ We began our analysis with four raw CSV files:
 * **Goal:** Classify the traffic quality from A (free-moving) to F (gridlock) based on density thresholds.
 * **Code File:** `step14.py`
 * **Output File:** `level_of_service_LOS.csv`
+* **Reference File:** Read the `LOS_ground_truth` file to understand the logic behind the results in `level_of_service_LOS.csv`.
 
 ---
 
