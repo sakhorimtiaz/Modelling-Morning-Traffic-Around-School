@@ -1,4 +1,4 @@
-# School Traffic Study (Luxmibazar, Dhaka)
+# Modelling Morning Traffic Around Schools (Luxmibazar, Dhaka)
 
 This is a joint research project by **St. Gregory’s High School and College (Dhaka, Bangladesh)** and **Bluebells School International (New Delhi, India)**. 
 
