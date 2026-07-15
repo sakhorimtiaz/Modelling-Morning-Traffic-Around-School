@@ -51,9 +51,10 @@ We use a standard formula to understand traffic flow:
 ## 👥 Our Team
 
 * **Lead Researcher & Programmer:** K. M. Imtiaz Hossain *(Mathematics Teacher, St. Gregory’s High School and College)*
-* **Project Partner:** Kazi Tandra, Mr. Tanjil, Mr. Bichitra, Miss Sonia, Mr. Richard Gomes, Mr. Bisshojit *(St. Gregory’s High School and College)*
+* **Advisor:** Tanjim Wahid *(Mathematics Teacher, St. Gregory’s High School and College)*
+* **Project Partner:** Kazi Tandra, Mr. Tanjil, Mr. Bichitra, Miss Sonia, Mr. Richard Gomes, Mr. Bisshojit *(Teachers, St. Gregory’s High School and College)*
 * **School Partner:** Bluebells School International *(New Delhi)*
-* **Data Collection Team:** 12 Students & 8 Teachers from St. Gregory's
+* **Data Collection Team:** Abdullah, Muksit, Sadat, Redwan, Sakif, Mahee, Siddharto, Sohail, Mikaeel, Debashis, Abid *(Students, St. Gregory’s High School and College)*
 
 ---
 
