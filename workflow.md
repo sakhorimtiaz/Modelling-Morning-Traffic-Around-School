@@ -101,7 +101,7 @@ We began our analysis with four raw CSV files:
 ### Step 11: Recalculate Final Densities
 * **Goal:** Run the density calculations again with the complete velocity dataset.
 * **Code File:** `step11.py`
-* **Output File:** `traffic_flow_density_final.csv` (along with an updated bar chart).
+* **Output File:** `traffic_flow_density_updated.csv` (along with an updated bar chart).
 
 ---
 
