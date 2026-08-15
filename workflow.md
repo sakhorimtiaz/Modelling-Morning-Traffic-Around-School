@@ -81,9 +81,7 @@ We began our analysis with four raw CSV files:
 * **Code File:** `step8.py`
 * **Output File:** `traffic_flow_density.csv`
 
----
-
-### Step 9: Visual Quality Check
+### Visual Quality Check
 * **Goal:** Plot a bar chart of the density output to verify data completeness.
 * **Code File:** `step9.py`
 * **Finding:** Spotted a missing velocity data point for Node B Morning, which left its density value empty.
