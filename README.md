@@ -2,14 +2,14 @@
 
 This is a research project by **St. Gregory’s High School and College (Dhaka, Bangladesh)**.
 
-We collected traffic data near schools during busy pickup and drop-off times (7:00 AM, 11:00 AM, and 4:30 PM). We built this Python tool to clean the data, calculate traffic speeds, and map out where the biggest traffic jams happen in Old Dhaka.
+We collected traffic data near schools during busy pickup and drop-off times (7:00 AM, 11:00 AM, and 4:30 PM). We built the Python tools to clean the data, calculate traffic speeds, and map out where the biggest traffic jams happen in Old Dhaka.
 
 ---
 
-## 🚀 What This Code Does
+## 🚀 What The Code Does
 
 * **Standardizes Vehicles:** Converts different vehicles (like rickshaws, cars, and auto-rickshaws) into a single standard unit (Passenger Car Unit, or PCU) so we can compare them fairly.
-* **Calculates True Speed:** Finds the average speed of traffic, making sure slow heavy vehicles and fast light vehicles are balanced correctly.
+* **Calculates True Speed:** Finds the average speed of traffic, making sure slow vehicles and fast vehicles are identified correctly.
 * **Measures Road Crowdedness:** Calculates what percentage of the road is physically filled with vehicles.
 * **Grades Traffic Jams:** Gives the road a traffic grade from A (free-moving) to F (complete traffic jam).
 * **Tracks Queue Lengths:** Uses real street distances to show exactly how far back a traffic jam stretches.
