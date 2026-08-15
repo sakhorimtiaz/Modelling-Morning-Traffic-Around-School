@@ -5,7 +5,7 @@ import os
 import numpy as np
 import pandas as pd
 
-# 1. Define input and output file paths
+# Define input and output file paths
 df = pd.read_csv(r'C:\Users\THINKPAD\Downloads\traffic_flow_density_updated.csv', encoding='utf-8')
 
 
@@ -13,13 +13,13 @@ df = pd.read_csv(r'C:\Users\THINKPAD\Downloads\traffic_flow_density_updated.csv'
 df.columns = df.columns.str.replace("Time Slot", "TimeSlot")
 df.columns = df.columns.str.replace("Average Velocity", "Average_Velocity")
 
-# 2. Define the model coefficients
+# Define the model coefficients
 A = 0.00352
 B = 2.94
 C_INTERCEPT = 283.0
 
 
-# 3. Row-by-row mathematical solver matching your exact output design
+# Row-by-row mathematical solver
 def analyze_traffic_row(row):
     q = row["q (PCU/hr)"]
 
@@ -33,7 +33,7 @@ def analyze_traffic_row(row):
     # Calculate the x1 root
     x1 = (-B + np.sqrt(discriminant)) / (2 * A)
 
-    # Determine classification status based on your physical constraints
+    # Determine classification status based on our physical constraints
     if x1 > 0:
         status = "Valid Physical Density"
     else:
@@ -42,15 +42,14 @@ def analyze_traffic_row(row):
     return round(discriminant, 2), round(x1, 2), status
 
 
-print("--> Executing quadratic transformations...")
 results = df.apply(analyze_traffic_row, axis=1)
 
-# 4. Map outputs directly to your exact column architecture
+# Map outputs directly to our exact column architecture
 df["Discriminant"] = [res[0] for res in results]
 df["Solved_Model_Density_x1 (PCU/km)"] = [res[1] for res in results]
 df["Model_Interpretation_Status"] = [res[2] for res in results]
 
-# 5. Enforce strict column ordering to match your requested format
+# Enforce strict column ordering to match our requested format
 final_column_structure = [
     "Node",
     "TimeSlot",
@@ -65,6 +64,6 @@ final_column_structure = [
 # Ensure everything matches up perfectly
 df = df[final_column_structure]
 
-# 6. Export to CSV
+# Export to CSV
 new_path = r'C:\Users\THINKPAD\Downloads\traffic_flow_analysis_results.csv'
 df.to_csv(new_path, index=False, encoding='utf-8')
