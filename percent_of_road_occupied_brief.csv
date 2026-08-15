@@ -1,0 +1,10 @@
+Node,TimeSlot,k (PCU/km),Occupancy (%)
+A,Evening,94.36337418,43.41
+A,MidMorning,39.59600304,18.21
+A,Morning,18.01615745,8.29
+B,Evening,26.93331408,12.39
+B,MidMorning,47.9334642,22.05
+B,Morning,51.76172942,23.81
+C,Evening,27.33258048,12.57
+C,MidMorning,119.1284908,54.8
+C,Morning,31.20331207,14.35
