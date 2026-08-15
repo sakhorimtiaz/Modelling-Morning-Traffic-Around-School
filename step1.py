@@ -12,4 +12,4 @@ vel_vehicles = set(dv['Vehicle_Type'].dropna().unique())  # Updated to 'Vehicle'
 print("Frequency Vehicles:", freq_vehicles)
 print("Velocity Vehicles:", vel_vehicles)
 
-#we will see that there are some mismatches in the variable names.
+#we observe that there are some mismatches in the variable names.
