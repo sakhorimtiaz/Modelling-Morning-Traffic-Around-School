@@ -54,9 +54,9 @@ We began our analysis with four raw CSV files:
 
 ---
 
-### Step 5: Merge Duplicate Vehicle Categories
+### Step 4: Merge Duplicate Vehicle Categories
 * **Goal:** Combine duplicate entries created by renaming (such as merging the CNG and AutoRickshaw rows).
-* **Code File:** `step5.py`
+* **Code File:** `step4.py`
 * **Output File:** `frequency_pcu_combined.csv`
 
 ---
