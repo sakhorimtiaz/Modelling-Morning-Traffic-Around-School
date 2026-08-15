@@ -39,13 +39,6 @@ We began our analysis with four raw CSV files:
 
 ---
 
-### Step 3: Calculate Hourly Flow Rate
-* **Goal:** Convert raw vehicle counts into an hourly flow rate (PCU per hour).
-* **Code File:** `step3.py`
-* **Output File:** `flow_rate_summary.csv`
-
----
-
 ### Step 3: Organize Cleaning Output
 * **Goal:** Group and structure the cleaned frequency data hierarchically.
 * **Code File:** `step3.py`
@@ -58,6 +51,13 @@ We began our analysis with four raw CSV files:
 * **Goal:** Combine duplicate entries created by renaming (such as merging the CNG and AutoRickshaw rows).
 * **Code File:** `step4.py`
 * **Output File:** `frequency_pcu_combined.csv`
+
+---
+
+### Step 5: Calculate Hourly Flow Rate
+* **Goal:** Convert raw vehicle counts into an hourly flow rate (PCU per hour).
+* **Code File:** `step5.py`
+* **Output File:** `flow_rate_summary.csv`
 
 ---
 
