@@ -18,7 +18,7 @@ We began our analysis with four raw CSV files:
 
 ---
 
-## 🚀 The 15-Step Data Pipeline
+## 🚀 The 13-Step Data Pipeline
 
 ### Step 1: Align Vehicle Names and Time Slots
 * **Goal:** Cross-check the vehicle names and time slots between our datasets to ensure they match.
