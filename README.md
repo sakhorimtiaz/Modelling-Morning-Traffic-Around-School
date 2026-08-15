@@ -1,6 +1,6 @@
 # Modelling Morning Traffic Around Schools (Luxmibazar, Dhaka)
 
-This is a joint research project by **St. Gregory’s High School and College (Dhaka, Bangladesh)** and **Bluebells School International (New Delhi, India)**.
+This is a research project by **St. Gregory’s High School and College (Dhaka, Bangladesh)**.
 
 We collected traffic data near schools during busy pickup and drop-off times (7:00 AM, 11:00 AM, and 4:30 PM). We built this Python tool to clean the data, calculate traffic speeds, and map out where the biggest traffic jams happen in Old Dhaka.
 
