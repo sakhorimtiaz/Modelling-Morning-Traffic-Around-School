@@ -118,9 +118,8 @@ We began our analysis with four raw CSV files:
 
 ---
 
-### Step 14: Assign Level of Service (LOS) Grades
+### Step 12: Assign Level of Service (LOS) Grades
 * **Goal:** Classify the traffic quality from A (free-moving) to F (gridlock) based on density thresholds.
-* **Code File:** `step14.py`
 * **Output File:** `level_of_service_LOS.csv`
 * **Reference File:** Read the `LOS_ground_truth` file to understand ground truth behind the results in `level_of_service_LOS.csv`.
 
