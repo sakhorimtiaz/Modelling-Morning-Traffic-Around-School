@@ -105,7 +105,8 @@ We began our analysis with four raw CSV files:
 * **Goal:** Plot flow-density-speed relationships to observe real-world trends.
 * **Code File:** `step10.py`
 * **Output Visual:** Scatter chart showing how traffic behaves at different congestion levels.
-* **Reference Files:** * We recommend to check the `Scatter_Chart_diagram.xlsx` file to view the scatter plot in spreadsheet/Google Doc format. The xlsx file is better to understand the charracteristics of the Scatter Plot rather than using the python code.
+* **Reference Files:**
+  * We recommend to check the `Scatter_Chart_diagram.xlsx` file to view the scatter plot in spreadsheet/Google Doc format. The xlsx file is better to understand the charracteristics of the Scatter Plot rather than using the python code.
   * Check the `Scatter_chart_concepts.doc` file to understand how we drew this chart.
 
 ---
