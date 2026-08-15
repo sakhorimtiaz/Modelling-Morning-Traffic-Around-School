@@ -1,0 +1,10 @@
+Level of Service (LOS),Description,Official HCM Threshold (pc/km/ln),For our scenario (PCU/km)
+A,Free Flow,0 to 7,0 to 15
+B,Reasonably Free Flow,> 7 to 11,15.1 to 25
+C,Stable Flow,> 11 to 16,25.1 to 35
+D,Approaching Unstable Flow,> 16 to 22,35.1 to 45
+E,The Breakpoint (Capacity),> 22 to 28,45.1 to 65
+F,System Failure (Breakdown),> 28 (or demand exceeds capacity),>65
+,,,
+Source ,Highway Capacity Manual 2000,,
+Link,https://moodle.polymtl.ca/pluginfile.php/108087/mod_resource/content/0/hcm2000freeway.pdf,,

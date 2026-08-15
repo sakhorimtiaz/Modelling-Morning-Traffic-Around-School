@@ -1,0 +1,12 @@
+Tier,"Regime
+ (LOS Equivalent)","Flow (q) 
+[PCU/hr]","Density (k) 
+[PCU/km]","Velocity (V) 
+[km/h]",Behavioral Observation & Mathematical Status
+Tier 1,Uncongested Regime (LOS A–C),< 300,< 30,10 to 19,"Traffic is too light for the aggregate model to calculate accurately, 
+leading to negative mathematical solutions."
+Tier 2,Transition Peak Regime (LOS D–E),400 to 600,30 to 60,10 to 16,"Road fills up, but mixed traffic dynamics prevent any system collapse."
+Tier 3,Urban Forced Creep Regime (LOS F),> 550,> 90,< 6,"The street is packed, 
+but traffic continues to creep forward rather than locking up entirely."
+,,,,,
+Reference Chart II: Multi-Dimensional Tiers (Holistic Reality for our situation),,,,,
