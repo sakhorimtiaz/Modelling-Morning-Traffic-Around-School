@@ -127,7 +127,6 @@ We began our analysis with four raw CSV files:
 
 ### Step 13: Calculate Road Space Occupancy Percentage
 * **Goal:** Determine what percentage of the physical road length is occupied by vehicles.
-* **Code File:** `step15.py`
 * **Formula:** Based on a baseline vehicle length of 4.6 meters per PCU:
   $$\text{Occupancy \%} = \frac{k \times 4.6\text{ m}}{1000\text{ m}} \times 100$$
 * **Output File:** `percent_of_road_occupied.csv`
