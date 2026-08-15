@@ -94,20 +94,18 @@ We began our analysis with four raw CSV files:
 * **Logic:** Node B Evening operates at a very low flow ($275.36\text{ PCU/hr}$) and low density ($26.93\text{ PCU/km}$). We substituted this uncongested evening velocity as a conservative baseline for the morning model.
 * **Output File:** `macroscopic_velocity_updated.csv`
 
----
-
-### Recalculate Final Densities
+### Recalculate Final Densities and Plot an Updated Bar Chart
 * **Goal:** Run the density calculations again with the complete velocity dataset.
 * **Code File:** `step9_b.py`
 * **Output File:** `traffic_flow_density_updated.csv` (along with an updated bar chart).
 
 ---
 
-### Step 12: Generate Traffic Scatter Plots
+### Step 10: Generate Traffic Scatter Plots
 * **Goal:** Plot flow-density-speed relationships to observe real-world trends.
-* **Code File:** `step12.py`
+* **Code File:** `step10.py`
 * **Output Visual:** Scatter chart showing how traffic behaves at different congestion levels.
-* **Reference Files:** * Check the `Scatter_Chart_diagram.xlsx` file to view the scatter plot in spreadsheet/Google Doc format.
+* **Reference Files:** * We recommend to check the `Scatter_Chart_diagram.xlsx` file to view the scatter plot in spreadsheet/Google Doc format. The xlsx file is better to understand the charracteristics of the Scatter Plot rather than using the python code.
   * Check the `Scatter_chart_concepts.doc` file to understand how we drew this chart.
 
 ---
