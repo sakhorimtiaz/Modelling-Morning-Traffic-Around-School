@@ -83,7 +83,7 @@ We began our analysis with four raw CSV files:
 
 ### Visual Quality Check
 * **Goal:** Plot a bar chart of the density output to verify data completeness.
-* **Code File:** `step9.py`
+* **Code File:** `step8_Check.py`
 * **Finding:** Spotted a missing velocity data point for Node B Morning, which left its density value empty.
 
 ---
