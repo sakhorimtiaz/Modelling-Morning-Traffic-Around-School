@@ -3,11 +3,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# 1. Define the empirical data points from your study
+# Define the empirical data points from your study
 k_density = np.array([94.36, 39.60, 18.02, 26.93, 47.93, 51.76, 27.33, 119.13, 31.20])
 q_flow = np.array([554.64, 425.48, 219.20, 275.36, 234.64, 529.20, 446.68, 708.32, 612.52])
 
-# 2. Coefficients from your Google Sheets aggregate trendline
+# Coefficients from your Google Sheets aggregate trendline
 # Equation: q = 0.00352*x^2 + 2.94*x + 283
 A = 0.00352
 B = 2.94
@@ -37,7 +37,7 @@ for q in q_flow:
             display_root = f"{x1:.2f} PCU/km"
         print(f"{q:<12.2f} | {discriminant:<14.2f} | {display_root:<20} | {status}")
 
-# 3. Generate the Academic Plot
+# Generate the Academic Plot
 plt.figure(figsize=(9, 6))
 
 # Plot the raw empirical data points
@@ -59,7 +59,7 @@ plt.ylim(0, 850)
 plt.grid(True, linestyle=':', alpha=0.6)
 plt.legend(loc='upper left', frameon=True, shadow=True)
 
-# Annotate the anomalous upward-bending behavior
+# Annotate the unusual upward-bending behavior
 plt.annotate('Upward resilience tail\n(No flow collapse)', xy=(119.13, 708.32), xytext=(75, 780),
              arrowprops=dict(facecolor='black', arrowstyle='->', lw=1.5),
              fontsize=10, bbox=dict(boxstyle="round,pad=0.3", fc="yellow", alpha=0.3))
