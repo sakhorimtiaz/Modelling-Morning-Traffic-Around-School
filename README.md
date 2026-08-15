@@ -51,7 +51,8 @@ We use a standard formula to understand traffic flow:
 ## 👥 Our Team
 
 * **Lead Researcher & Programmer:** K. M. Imtiaz Hossain *(Mathematics Teacher, St. Gregory’s High School and College)*
-* **Advisor:** Tanjim Wahid *(Civil Engineer)*
+* **Advisor:** Abu Sadat Mohammad Tayab *(Superintending Engineer, Chattogram City Corporation)*
+                Tanjim Wahid *(Civil Engineer, Edifice Consultancy)*
 * **Co-Researchers:** Kazi Zakia Islam Tandra, Miss Sayeda Sonia Islam, Mr. Bichitra Birza Debnath, Mr. Richard Gomes, Tanjil Islam, Mr. Bishwazit paul *(Teachers, St. Gregory’s High School and College)*
 * **School Partner:** Bluebells School International *(New Delhi)*
 * **Data Collection Team:** Aayan Saleh Md Abdullah Sikder, Mohammad Sadat Hossain, Redwan Al Mamun, Abrar Hasan, Sakif Ahmed, Muksit Nafi, Siddharto Bhadra Prokash, Abu Hurayra Mahee, Sohail Abdullah Adib, Mikaeel Fahmi, Debashis, Abid *(Students, St. Gregory’s High School and College)*
