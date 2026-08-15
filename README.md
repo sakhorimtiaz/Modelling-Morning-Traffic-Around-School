@@ -18,7 +18,7 @@ We collected traffic data near schools during busy pickup and drop-off times (7:
 
 ## 📂 Project Files
 
-The Python scripts run in order from `step1.py` to `step15.py`:
+The Python scripts run in order from `step1.py` to `step11.py`:
 
     ├── data/
     │   ├── Vehicle_units.csv         # Standard values for each vehicle type
