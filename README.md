@@ -29,7 +29,7 @@ The Python scripts run in order from `step1.py` to `step15.py`:
     │   ├── step1.py                  # Imports and checks the data files
     │   ├── step2.py                  # Cleans the data and fixes vehicle names
     │   ├── step7.py                  # Calculates average traffic speed
-    │   ├── step9_a.py                 # Calculates traffic density (vehicles per km)
+    │   ├── step9_a.py                # Calculates traffic density (vehicles per km)
     │   ├── step12.py                 # Grades the traffic from A to F
     │   └── step13.py                 # Calculates how much road space is occupied
     └── README.md
