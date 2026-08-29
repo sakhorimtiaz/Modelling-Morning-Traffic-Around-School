@@ -32,6 +32,7 @@ The Python scripts run in order from `step1.py` to `step11.py`:
     │   ├── step9_a.py                # Calculates traffic density (vehicles per km)
     │   ├── step12.py                 # Grades the traffic from A to F
     │   └── step13.py                 # Calculates how much road space is occupied
+    │   └── step14.py                 # Prepares two pie charts showing the percentage of Motorized vs Non-Motorized and Each vehicles.
     └── README.md
 
 ---
