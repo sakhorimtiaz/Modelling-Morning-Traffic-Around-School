@@ -130,3 +130,10 @@ We began our analysis with four raw CSV files:
 * **Formula:** Based on a baseline vehicle length of 4.6 meters per PCU:
   $$\text{Occupancy \%} = \frac{k \times 4.6\text{ m}}{1000\text{ m}} \times 100$$
 * **Output File:** `percent_of_road_occupied_brief.csv`
+
+---
+
+### Step 14: Prepare Two Pie Charts
+* **Goal:** Determine the percentage of Motorized vs. Non-motorized and Each Vehicles.
+* **Code File:** `step14.py`
+* **Output Visual:** Pie chart showing ratio of diiefernt vehicle types.
